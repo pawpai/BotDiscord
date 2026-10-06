@@ -1,0 +1,8 @@
+{
+  "title": "🎬 รับยศร้านBearHouse",
+  "description": "กดอิโมจิด้านล่างเพื่อรับยศที่ต้องการ",
+  "removeRoleOnUnreact": true,
+  "roles": [
+    { "emoji": "✅", "roleId": "1556895427494805545", "label": "สมาชิก" }
+  ]
+}

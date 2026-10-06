@@ -1,0 +1,17 @@
+{
+  "name": "ifilm-reaction-roles",
+  "version": "1.0.0",
+  "private": true,
+  "description": "บ็อต Discord กดอิโมจิเพื่อรับยศ",
+  "type": "module",
+  "engines": { "node": ">=24.17.0" },
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node src/index.js --check-config",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.2.3"
+  }
+}
